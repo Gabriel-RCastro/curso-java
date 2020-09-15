@@ -1,4 +1,4 @@
-package ExFixacao;
+package logicaDeProgramacao.exerciciosFixacao;
 
 import java.util.Locale;
 

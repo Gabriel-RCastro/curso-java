@@ -1,4 +1,4 @@
-package ExEstruturaSequencial;
+package logicaDeProgramacao.estruturaSequencial;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -25,5 +25,7 @@ public class Exercicio05 {
         valorPagar = (valor1*peca1) + (valor2*peca2);
 
         System.out.printf("VALOR A PAGAR: R$ %.2f", valorPagar);
+
+        sc.close();
     }
 }

@@ -1,4 +1,4 @@
-package ExEstruturaSequencial;
+package logicaDeProgramacao.estruturaSequencial;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -10,7 +10,9 @@ public class Exercicio02 {
         double raio, area, pi = 3.14159;
 
         System.out.print("Informe o valor do raio: "); raio = sc.nextDouble();
-        area = pi * (raio*raio);
+        area = pi * (Math.pow(raio, 2));
         System.out.printf("A = %.4f", area);
+
+        sc.close();
     }
 }

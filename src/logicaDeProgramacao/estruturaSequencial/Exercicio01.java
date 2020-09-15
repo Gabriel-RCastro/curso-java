@@ -1,4 +1,4 @@
-package ExEstruturaSequencial;
+package logicaDeProgramacao.estruturaSequencial;
 
 import java.util.Scanner;
 
@@ -11,5 +11,7 @@ public class Exercicio01 {
         System.out.print("Informe o segundo valor: "); valor2 = sc.nextInt();
 
         System.out.print("A soma dos dois valores é: " + (valor1+valor2));
+
+        sc.close();
     }
 }
