@@ -21,16 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8947eb94-fe7e-462c-bd5f-d3ac7f25bdb1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java/ExEstruturaSequencial/Exercicio01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java/ExEstruturaSequencial/Exercicio02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java/ExEstruturaSequencial/Exercicio05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java/ExFixacao/ExFixacao1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/curso-java/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExEstruturaSequencial/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logicaDeProgramacao/estruturaSequencial/Exercicio01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExEstruturaSequencial/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logicaDeProgramacao/estruturaSequencial/Exercicio02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExEstruturaSequencial/Exercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logicaDeProgramacao/estruturaSequencial/Exercicio05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFixacao/ExFixacao1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logicaDeProgramacao/exerciciosFixacao/ExFixacao1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logicaDeProgramacao/MainTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/problemas/problema2/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/problemas/problema2/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/problemas/problema2/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/problemas/problema2/entities/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -66,7 +59,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="proofread" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -74,8 +67,60 @@
       <recent name="POO.problemas.problema2.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program (1)">
+  <component name="RunManager" selected="Application.Program (3)">
     <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.exercicios.fixacao.exercicio5.application.Program" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POO.exercicios.fixacao.exercicio5.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.exercicios.fixacao.exercicio6.application.Program" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POO.exercicios.fixacao.exercicio6.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.exercicios.fixacao.exercicio7.application.Program" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POO.exercicios.fixacao.exercicio7.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.exercicios.fixacao.exercicio1.application.Program" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POO.exercicios.fixacao.exercicio1.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="POO.problemas.problema2.application.Program" />
       <module name="curso-java" />
       <extension name="coverage">
@@ -89,11 +134,11 @@
       </method>
     </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POO.problema1.entities.application.Program" />
+      <option name="MAIN_CLASS_NAME" value="POO.exercicios.fixacao.exercicio2.application.Program" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="POO.problema1.entities.application.*" />
+          <option name="PATTERN" value="POO.exercicios.fixacao.exercicio2.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,21 +146,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="TesteListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.exemplos.TesteListas" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POO.exemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program (3)" />
+        <item itemvalue="Application.TesteListas" />
+        <item itemvalue="Application.Program (2)" />
         <item itemvalue="Application.Program (1)" />
         <item itemvalue="Application.Program" />
       </list>
@@ -131,7 +190,8 @@
       <updated>1600100273931</updated>
       <workItem from="1600100274963" duration="209000" />
       <workItem from="1600100575826" duration="5405000" />
-      <workItem from="1600167089864" duration="20292000" />
+      <workItem from="1600167089864" duration="20443000" />
+      <workItem from="1600253544988" duration="20254000" />
     </task>
     <servers />
   </component>
@@ -155,10 +215,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1600100317477" />
-    <state x="828" y="186" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600190156586">
+    <state x="828" y="186" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600260279321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="828" y="186" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600190156586" />
+    <state x="828" y="186" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600260279321" />
+    <state x="765" y="236" width="390" height="488" key="#com.intellij.ide.util.MemberChooser" timestamp="1600275983183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" width="390" height="488" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600275983183" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1600260190947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600260190947" />
     <state width="1877" height="347" key="GridCell.Tab.-1.bottom" timestamp="1600175487605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -175,22 +243,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="347" key="GridCell.Tab.-1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600175487605" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1600191823461">
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom" timestamp="1600278440381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600191823461" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1600191823461">
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600278440381" />
+    <state width="1877" height="272" key="GridCell.Tab.0.center" timestamp="1600278440381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600191823461" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1600191823461">
+    <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600278440381" />
+    <state width="1877" height="272" key="GridCell.Tab.0.left" timestamp="1600278440380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600191823461" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1600191823461">
+    <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600278440380" />
+    <state width="1877" height="272" key="GridCell.Tab.0.right" timestamp="1600278440381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600191823461" />
+    <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600278440381" />
     <state width="912" height="274" key="GridCell.Tab.1.bottom" timestamp="1600176707329">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -207,13 +275,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="912" height="274" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600176707329" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1600100917003">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1600263749042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600100917003" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600263749042" />
+    <state x="807" y="433" key="VCS.ChangelistChooser" timestamp="1600260076783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="807" y="433" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600260076783" />
     <state x="1147" y="123" width="585" height="801" key="find.popup" timestamp="1600104081117">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1147" y="123" width="585" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600104081117" />
+    <state x="1235" y="279" key="refactoring.ChangeSignatureDialog" timestamp="1600263537536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1235" y="279" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600263537536" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1600253907533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600253907533" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600259086765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600259086765" />
   </component>
 </project>
