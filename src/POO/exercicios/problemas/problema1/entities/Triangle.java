@@ -1,4 +1,4 @@
-package POO.problemas.problema1.entities;
+package POO.exercicios.problemas.problema1.entities;
 
 public class Triangle {
     public double a;

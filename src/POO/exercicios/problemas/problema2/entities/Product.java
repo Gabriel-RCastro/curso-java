@@ -1,4 +1,4 @@
-package POO.problemas.problema2.entities;
+package POO.exercicios.problemas.problema2.entities;
 
 public class Product {
 

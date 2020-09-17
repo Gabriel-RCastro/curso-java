@@ -1,6 +1,6 @@
-package POO.problemas.problema2.application;
+package POO.exercicios.problemas.problema2.application;
 
-import POO.problemas.problema2.entities.Product;
+import POO.exercicios.problemas.problema2.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;

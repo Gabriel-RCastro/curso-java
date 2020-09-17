@@ -1,6 +1,6 @@
-package POO.problemas.problema1.application;
+package POO.exercicios.problemas.problema1.application;
 
-import POO.problemas.problema1.entities.Triangle;
+import POO.exercicios.problemas.problema1.entities.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;
