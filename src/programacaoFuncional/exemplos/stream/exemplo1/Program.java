@@ -1,4 +1,4 @@
-package programacaoFuncional.exemplos.stream;
+package programacaoFuncional.exemplos.stream.exemplo1;
 
 import java.util.Arrays;
 import java.util.List;
