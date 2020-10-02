@@ -6,7 +6,7 @@
 
 - ### Repositório com o 3º projeto desenvolvido no curso: https://github.com/Gabriel-RCastro/workshop-javafx-jdbc (Finalizado)
 
-- ### Repositório com o 4º projeto desenvolvido no curso: https://github.com/Gabriel-RCastro/course-springboot-java-11 (Em andamento)
+- ### Repositório com o 4º projeto desenvolvido no curso: https://github.com/Gabriel-RCastro/course-springboot-java-11 (Finalizado)
 
 ---
 **-> Compre o curso: https://www.udemy.com/course/java-curso-completo/**
