@@ -8,5 +8,7 @@
 
 - ### Repositório com o 4º projeto desenvolvido no curso: https://github.com/Gabriel-RCastro/course-springboot-java-11 (Finalizado)
 
+- ### Repositório com o 5º projeto desenvolvido no curso: https://github.com/Gabriel-RCastro/workshop-springboot-mongodb (Finalizado)
+
 ---
 **-> Compre o curso: https://www.udemy.com/course/java-curso-completo/**
